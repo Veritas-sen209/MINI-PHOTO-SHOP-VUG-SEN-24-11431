@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mini Photoshop 
 
 This project is a simple desktop image editing application developed using Python. It provides a user-friendly interface similar to a lightweight photo editing tool, allowing users to open an image, apply different filters, adjust brightness, reset the image to its original form, and save the edited image. The application is built using Tkinter for the graphical user interface and OpenCV together with Pillow for image processing.
@@ -47,3 +48,6 @@ OpenCV for handling and processing image filters
 Pillow (PIL) for displaying images within Tkinter
 
 NumPy for handling image array operations
+=======
+# MINI-PHOTO-SHOP-VUG-SEN-24-11431
+>>>>>>> 2b4038e617d4fe0257be131de31c5f930ee802c5
